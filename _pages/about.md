@@ -11,7 +11,7 @@ I am a first-year Ph.D. student in the Department of Epidemiology and Health Sta
 
 You can find my CV here:[]
 
-[Email](mailto:yf_zhou993@bjmu.edu.cn)/[Github](https://zyf20261.github.io)/[Wechat]()
+[Email](mailto:yf_zhou993@bjmu.edu.cn)/[Github](https://zyf20261.github.io)/[Wechat](images/zyf_wechat.jpg)
  
  
 
