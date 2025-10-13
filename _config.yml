@@ -23,7 +23,7 @@ repository               : "zyf20261/zyf20261.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "../images/zyf_image.png"
   name             : "Yifan Zhou(周逸帆)"
   pronouns         : # example: "she/her"  
   bio              : "Welcome to my personal homepage"
