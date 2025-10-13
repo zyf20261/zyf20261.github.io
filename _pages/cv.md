@@ -11,30 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Epidemiology and Health Statistics, Peking University, 2025-2030 (expected)
+* B.S. in Preventive Medicine, Zhejiang University, 2020-2025
+* Senior high school in NingBo Yinzhou High School, 2017-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: field work
+  * Project: Critically
+  * Duties includes: Training village doctors, collecting data and obtaining informed consent, extracting data, quality control of data, web page testing
+  * Supervisor: Xun Tang 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024.10-2025.06: Graduation thesis design
+  * Project: "Study on the Risk of Inflammatory Bowel Disease Caused by Environmental Exposure and Mosaic Loss of Sex Chromosomes"
+  * Duties includes: Literature review writing, research route design, UKB data processing, chart drawing, research paper writing
+  * Supervisor: Xue Li
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Winter 2024: field work
+  * Project: TAP
+  * Duties includes: On-site dietary FFQ questionnaire survey and biological sample collection
+  * Supervisor: Xun Tang 
+
+* 2023.05-2024.05: School Research Practice
+  * Project: "Mechanism of ALK4/5 in the development of pulmonary Hypertension"
+  * Duties included: Literature reading and application writing, project defense, cell culture, elisa and fluorescence <br/>quantitative PCR assay
+  * Supervisor: Jun Yang
+
+* 2022.04-2023.12: SRTP
+  * Project: "Investigation of Risk Factors for early onset of cardiovascular system diseases and <br/>Establishment of clinical prediction Model"
+  * Duties included: Literature reading and application writing, R language data cleaning and analysis, AI drawing
+  * Supervisor: Chen Chen
+  * Outcomes: [Risk Factors of Premature Atherosclerotic Cardiovascular Disease in China: A Longitudinal Analysis of the China Health and Nutrition Survey Cohort](https://pubmed.ncbi.nlm.nih.gov/38247055/),Co-first Author
+
+
 Skills
 ======
-* Skill 1
+* Skill 1:
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
