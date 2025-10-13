@@ -9,9 +9,9 @@ redirect_from:
 
 I am a first-year Ph.D. student in the Department of Epidemiology and Health Statsitics at the [School of Public Health](https://sph.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I am fortunate to be advised by Associate Professor [Xun Tang](https://sph.pku.edu.cn/info/1181/3599.htm). My main research direction is chronic epidemiology, with a focus on the control of risk factors for cardiovascular metabolic diseases, the prediction of disease risk, and the evaluation of intervention effects.
 
-You can find my CV here:[]
+You can find my CV here:[Yifan Zhou's Curriculum Vitae](../]
 
-[Email](mailto:yf_zhou993@bjmu.edu.cn)/[Github](https://zyf20261.github.io)/[Wechat](images/zyf_wechat.jpg)
+[Email](mailto:yf_zhou993@bjmu.edu.cn)/[Github](https://zyf20261.github.io)/[Wechat](../images/zyf_wechat.jpg)
  
  
 
