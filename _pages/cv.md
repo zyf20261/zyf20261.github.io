@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="color:blue;">Education</span>
+<span style="color:teal;">Education</span>
 ======
 * Ph.D in Epidemiology and Health Statistics, Peking University, 2025-2030 (expected)
 * B.S. in Preventive Medicine, Zhejiang University, 2020-2025
@@ -43,15 +43,18 @@ Work experience
   * Supervisor: Chen Chen
   * Outcomes: [Risk Factors of Premature Atherosclerotic Cardiovascular Disease in China: A Longitudinal Analysis of the China Health and Nutrition Survey Cohort](https://pubmed.ncbi.nlm.nih.gov/38247055/),Co-first Author
 
-
 Skills
 ======
-* Skill 1:
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 1. Technical & Analytical Skills:
+     (1) Experience with statistical software (e.g., R, SAS, Stata, PASS)
+     (2) Data management and wrangling abilities
+* 2. Scientific & Subject Matter Expertise
+     (1) Knowledge of epidemiological study designs (cohort, case-control, etc.)
+     (2) Understanding of causal inference methods
+     (3) Knowledge of chronic disease dynamics
+* 3. Professional & Communication Skills
+     (1) Strong scientific writing and presentation skills
+     (2) Effective collaboration and teamwork skills
 
 Publications
 ======
