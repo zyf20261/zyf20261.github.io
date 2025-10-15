@@ -1,6 +1,6 @@
 ---
 title: "Critically"
-excerpt: "Training for village doctors at the grassroots level<br/><img src='/images/500x300.png'>"
+excerpt: "Training for village doctors at the grassroots level<br/><img src='/images/png1.png'>"
 collection: portfolio
 ---
 
