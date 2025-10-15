@@ -1,6 +1,6 @@
 ---
 title: "TAP"
-excerpt: "On-site dietary FFQ questionnaire survey<br/><img src='/images/png3.jpg'width='400'>"
+excerpt: "On-site dietary FFQ questionnaire survey<br/><img src='/images/png3.jpg' width='400' alt='FFQ'>"
 collection: portfolio
 ---
 
