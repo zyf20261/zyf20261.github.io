@@ -15,7 +15,7 @@ redirect_from:
 * B.S. in Preventive Medicine, Zhejiang University, 2020-2025
 * Senior high school in NingBo Yinzhou High School, 2017-2020
 
-Work experience
+<span style="color:teal;">Work experience</span>
 ======
 * Summer 2025: field work
   * Project: Critically
@@ -43,20 +43,20 @@ Work experience
   * Supervisor: Chen Chen
   * Outcomes: [Risk Factors of Premature Atherosclerotic Cardiovascular Disease in China: A Longitudinal Analysis of the China Health and Nutrition Survey Cohort](https://pubmed.ncbi.nlm.nih.gov/38247055/),Co-first Author
 
-Skills
+<span style="color:teal;">Skills</span>
 ======
 * 1. Technical & Analytical Skills:
-     (1) Experience with statistical software (e.g., R, SAS, Stata, PASS)
-     (2) Data management and wrangling abilities
+*    (1) Experience with statistical software (e.g., R, SAS, Stata, PASS)
+*    (2) Data management and wrangling abilities
 * 2. Scientific & Subject Matter Expertise
-     (1) Knowledge of epidemiological study designs (cohort, case-control, etc.)
-     (2) Understanding of causal inference methods
-     (3) Knowledge of chronic disease dynamics
+*    (1) Knowledge of epidemiological study designs (cohort, case-control, etc.)
+*    (2) Understanding of causal inference methods
+*    (3) Knowledge of chronic disease dynamics
 * 3. Professional & Communication Skills
-     (1) Strong scientific writing and presentation skills
-     (2) Effective collaboration and teamwork skills
+*    (1) Strong scientific writing and presentation skills
+*    (2) Effective collaboration and teamwork skills
 
-Publications
+<span style="color:teal;">Publications</span>
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
