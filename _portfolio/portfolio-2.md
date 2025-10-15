@@ -1,7 +1,7 @@
 ---
-title: "Critically"
-excerpt: "Training for village doctors at the grassroots level<br/><img src='/images/png1.jpg'>"
+title: "TAP"
+excerpt: "On-site dietary FFQ questionnaire survey<br/><img src='/images/png3.jpg'width="400">"
 collection: portfolio
 ---
 
-This is an epidemiological investigation field project in Ningbo. The picture shows the training and communication with village doctors at various community health service centers.
+This is a scene of a dietary nutrition questionnaire survey and biological sample collection at a health teacher cohort in Jiaxing.
