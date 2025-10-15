@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<span style="color:blue;">Education</span>
 ======
 * Ph.D in Epidemiology and Health Statistics, Peking University, 2025-2030 (expected)
 * B.S. in Preventive Medicine, Zhejiang University, 2020-2025
@@ -59,6 +59,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
