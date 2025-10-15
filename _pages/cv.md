@@ -45,14 +45,14 @@ redirect_from:
 
 <span style="color:teal;">Skills</span>
 ======
-* 1. Technical & Analytical Skills:
+*  Technical & Analytical Skills:
    * (1) Experience with statistical software (e.g., R, SAS, Stata, PASS)
    * (2) Data management and wrangling abilities
-* 2. Scientific & Subject Matter Expertise
+*  Scientific & Subject Matter Expertise
    * (1) Knowledge of epidemiological study designs (cohort, case-control, etc.)
    * (2) Understanding of causal inference methods
    * (3) Knowledge of chronic disease dynamics
-* 3. Professional & Communication Skills
+*  Professional & Communication Skills
    * (1) Strong scientific writing and presentation skills
    * (2) Effective collaboration and teamwork skills
 
