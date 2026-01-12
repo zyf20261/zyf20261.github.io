@@ -9,16 +9,16 @@ excerpt: >
   <img src='/images/整体图.png' width='400'><br/><br/>
 
   <strong>2. 分性别混淆矩阵结果</strong><br/>
-  < img src='/images/混淆矩阵.png' width='600'><br/><br/>
+  <img src='/images/混淆矩阵.png' width='600'><br/><br/>
 
   <strong>3. 分性别 Kaplan-Meier 生存曲线结果</strong><br/>
-  < img src='/images/生存曲线.png' width='600'><br/><br/>
+  <img src='/images/生存曲线.png' width='600'><br/><br/>
 
   <strong>4. 分性别 ROC 结果</strong><br/>
-  < img src='/images/roc.png' width='400'><br/><br/>
+  <img src='/images/roc.png' width='400'><br/><br/>
 
   <strong>5. 分性别 SHAP 结果</strong><br/>
-  < img src='/images/shap.png' width='600'>
+  <img src='/images/shap.png' width='600'>
 
 ---
 
