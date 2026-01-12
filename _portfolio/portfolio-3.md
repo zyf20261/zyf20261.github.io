@@ -6,7 +6,7 @@ type: "Machine Learning"
 
 excerpt: >
   <strong>1. 整体人群模型评估结果</strong><br/>
-  <img src='/images/整体图.png' width='400'><br/><br/>
+  <img src='/images/整体图.png' width='400'><br/><br/><br/>
 
   <strong>2. 分性别混淆矩阵结果</strong><br/>
   <img src='/images/混淆矩阵.png' width='600'><br/><br/>
