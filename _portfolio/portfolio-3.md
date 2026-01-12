@@ -2,10 +2,10 @@
 title: "Python大作业数据可视化"
 date：2026-1-12
 type："Machine Learning"
-excerpt: "Training for village doctors at the grassroots level<br/><img src='/images/png1.jpg' width='400' alt='Village doctor training session'>"
+excerpt:
 collection: portfolio
 
 ---
 
-This is an epidemiological investigation field project in Ningbo. The picture shows the training and communication with village doctors at various community health service centers.
+"使用Matplotlib和seaborn进行探索性数据分析，并通过混淆矩阵和ROC曲线评估Cox回归模型性能，Kaplan-Meier生存曲线比较不同风险组5年心血管死亡率，SHAP进行变量解释"
 
