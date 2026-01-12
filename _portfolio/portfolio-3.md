@@ -1,7 +1,7 @@
 ---
 title: "Python大作业数据可视化"
-date：2026-1-12
-type："Machine Learning"
+date:2026-1-12
+type:"Machine Learning"
 excerpt:
 collection: portfolio
 
