@@ -2,7 +2,7 @@
 title: "Python大作业数据可视化"
 date: 2026-1-12
 type: "Machine Learning"
-excerpt:
+excerpt: "Training for village doctors at the grassroots level<br/><img src='/images/整体图.png' width='400' alt='Village doctor training session'>"
 collection: portfolio
 
 ---
