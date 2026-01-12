@@ -2,8 +2,6 @@
 title: "Python大作业数据可视化"
 date: 2026-1-12
 type: "Machine Learning"
-excerpt: "1.整体人群模型评估结果<br/><img src='/images/整体图.png' width='400' alt='Village doctor training session'>"
-excerpt: "2.分性别混淆矩阵结果<br/><img src='/images/整体图.png' width='400' alt='Village doctor training session'>"
 excerpts:
   - "1.整体人群模型评估结果<br/><img src='/images/整体图.png' width='400'>"
   - "2.分性别混淆矩阵结果<br/><img src='/images/混淆矩阵.png' width='600'>"
